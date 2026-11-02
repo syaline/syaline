@@ -1,6 +1,6 @@
 # Hi, I'm Yaline 👋
 
-#### Business Analytics undergraduate | Exploring the intersection of business, technology and data
+### Business Analytics undergraduate | Exploring the intersection of business, technology and data
 
 I'm interested in how data and technology can help us understand people, solve business problems and make better decisions — while considering the wider impact of AI and technology on society.
 
