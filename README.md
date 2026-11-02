@@ -1,13 +1,12 @@
 # Hi, I'm Yaline 👋
 
-### Business Analytics undergraduate | Exploring the intersection of business, technology and data
+#### Business Analytics undergraduate | Exploring the intersection of business, technology and data
 
 I'm interested in how data and technology can help us understand people, solve business problems and make better decisions — while considering the wider impact of AI and technology on society.
 
 - 🎓 Studying BM (Honours) in Business Analytics at NSBM Green University.
 - 🔍 Exploring business, marketing and customer analytics, alongside applied AI and automation.
 - 🌐 Interested in the long-term intersection of technology, data, AI governance and policy.
-- 📍 Based in Sri Lanka.
 
 ---
 
@@ -41,5 +40,4 @@ I'm interested in how data and technology can help us understand people, solve b
 ## Let's connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=googlechrome&logoColor=white)](https://syaline.github.io/skyaline/)
-[![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white)](https://github.com/syaline)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F2937?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaline-s-616107382/)
