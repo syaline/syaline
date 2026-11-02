@@ -1,4 +1,4 @@
-# Hi, I'm Yaline 👋
+# Hi, I'm Yaline 👋🏻
 
 ### Business Analytics undergraduate | Exploring the intersection of business, technology and data
 
